@@ -7,5 +7,5 @@
 
 Contains a fully functional webpack with css/scss loaders along with babel es6/react/new es6 transform class presets
 Inded.html is linked to a sass file
-Also contains Noemalize CSS withan HTML font-size preset to 62.5% to cater to rems;
+Also contains Normalize CSS within HTML(css) font-size preset to 62.5% to cater to rems;
 
